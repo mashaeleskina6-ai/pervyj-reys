@@ -20,8 +20,10 @@
 ## Установка
 Приложение работает в любом современном браузере и не требует установки сервера или дополнительных зависимостей.
 Клонируйте репозиторий на локальный компьютер:
-```git clone https://github.com/mashaeleskina6-ai/pervyj-reys.git```
-```cd pervyj-reys```
+```bash
+git clone https://github.com/mashaeleskina6-ai/pervyj-reys.git
+cd pervyj-reys
+```
 Откройте HTML-файл сборки игры в браузере.
 
 ## Использование
